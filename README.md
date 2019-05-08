@@ -1,3 +1,4 @@
-#Responsive Design Practice
+# Responsive Design Practice
 
-####This is me learning about responsive design
+<p> This is me learning about responsive design
+    Then putting it into practice
